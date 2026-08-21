@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<WORKSPACE>
+ <FRAME activeWindow="0">
+  <PLACEMENT>01d9d0cb00030000fffffffffffffff500000a00000005f8000000980000003b0000097b000005ea00000000020000000a000000000000000022000009ff000005f7</PLACEMENT>
+  <WINDOW mode="00050a01" module="ISIS" index="0" type="default"/>
+ </FRAME>
+ <MODULE name="VSMDEBUG">
+  <PWI>
+   <POPUP h="200" pid="0" w="800" flags="00000082" x="10" iid="-1" y="31">
+    <PROPERTIES/>
+   </POPUP>
+   <POPUP h="200" pid="1" w="350" flags="000000b2" x="30" iid="-1" y="51">
+    <PROPERTIES/>
+   </POPUP>
+   <POPUP h="200" pid="2" w="800" flags="000000a2" x="50" iid="-1" y="71">
+    <PROPERTIES/>
+   </POPUP>
+  </PWI>
+ </MODULE>
+ <MODULE name="ARES">
+  <editor zoom="10" snaprange="0" snap="0" xcursor="0" metric="0" gridmode="2" snapidx="3" gridmajor="0" gridminor="0" scale="10" orgmode="0" flipped="0">
+   <centre x="0" y="0"/>
+   <origin x="0" y="0"/>
+   <world x2="15240000" y1="-12700000" y2="12700000" x1="-15240000"/>
+  </editor>
+ </MODULE>
+ <MODULE name="VSMEDIT">
+  <EDITOR/>
+ </MODULE>
+ <MODULE name="ISIS">
+  <editor zoom="0" snaprange="127000" snap="254000" xcursor="0" metric="0" gridmode="2" snapidx="2" gridmajor="2540000" gridminor="254000" scale="184" orgmode="0" flipped="0">
+   <centre x="0" y="0"/>
+   <origin x="0" y="0"/>
+   <world x2="12700000" y1="-8890000" y2="8890000" x1="-12700000"/>
+  </editor>
+ </MODULE>
+</WORKSPACE>
